@@ -1,0 +1,10 @@
+8
+A,B->C
+C->A
+B,C->D
+A,C,D->B
+D->E,G
+B,E->C
+C,G->B,D
+C,E->A,G
+B,D
